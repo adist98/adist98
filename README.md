@@ -19,5 +19,5 @@ I am Aditya, a competitive programmer and a developer.
 - 👯 I’m looking to collaborate on open source projects [JavaScript]
 - 🌱 I am currently learning React JS
 - 💬 Ask me about Algorithms
-- 📫 How to reach me: [https://www.linkedin.com/in/ason98/]
+- 📫 How to reach me: https://www.linkedin.com/in/ason98/
 - ⚡ Fun fact: To be updated...
