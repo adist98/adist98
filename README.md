@@ -20,4 +20,3 @@ I am Aditya, a competitive programmer and a developer.
 - 🌱 I am currently learning React JS
 - 💬 Ask me about Algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/ason98/
-- ⚡ Fun fact: To be updated...
