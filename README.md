@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 I am Aditya, a competitive programmer and a developer.
 
-- 🌱 I am currently learning React js
+- 👯 I’m looking to collaborate on open source projects [JavaScript]
+- 🌱 I am currently learning React JS
 - 💬 Ask me about Algorithms
-- 📫 How to reach me: Linkedin[https://www.linkedin.com/in/ason98/]
+- 📫 How to reach me: [https://www.linkedin.com/in/ason98/]
 - ⚡ Fun fact: To be updated...
