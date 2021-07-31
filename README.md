@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 I am Aditya, a competitive programmer and a developer.
 
 - 👯 I’m looking to collaborate on open source projects [JavaScript, C++]
-- 🌱 I am currently learning React JS
+- 🌱 I am currently learning JWT
 - 💬 Ask me about Algorithms, Node JS
 - 📫 How to reach me: https://www.linkedin.com/in/ason98/
