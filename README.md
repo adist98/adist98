@@ -18,5 +18,5 @@ I am Aditya, a competitive programmer and a developer.
 
 - 👯 I’m looking to collaborate on open source projects [JavaScript, C++]
 - 🌱 I am currently learning JWT
-- 💬 Ask me about Algorithms, Node JS
+- 💬 Ask me about Algorithms, Node JS, React JS, Express JS
 - 📫 How to reach me: https://www.linkedin.com/in/ason98/
