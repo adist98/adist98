@@ -22,4 +22,4 @@ I am Aditya, a competitive programmer and a developer.
 - 📫 How to reach me: https://www.linkedin.com/in/ason98/
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adist98&label=Profile Views&color=blue&style=plastic" alt="adist98" /></p>
+<img src="https://komarev.com/ghpvc/?username=adist98&label=Profile Views&color=blue&style=plastic" alt="adist98" />
